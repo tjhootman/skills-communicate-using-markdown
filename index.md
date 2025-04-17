@@ -8,3 +8,8 @@
 ``` python
 name = 'Todd'
 ```
+
+- [x] Add headers
+- [x] Add image
+- [x] Add code
+- [ ] Add task list
